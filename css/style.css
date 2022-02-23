@@ -359,9 +359,9 @@ main {
   margin-bottom: 40px;
 }
 .hello__bttn {
-  padding: 0 20px;
+  padding: 0 18px;
   height: 47px;
-  width: 208px;
+  width: 212px;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
