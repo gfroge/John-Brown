@@ -359,6 +359,7 @@ main {
   margin-bottom: 40px;
 }
 .hello__bttn {
+  white-space: nowrap;
   padding: 0 18px;
   height: 47px;
   width: 212px;
